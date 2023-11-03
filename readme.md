@@ -1,6 +1,6 @@
-# Sistema Experto Básico - Recomendaciones según el Clima
+# Sistema Experto Básico - Recomendaciones según el tipo de comida
 
-Este es un Sistema Experto básico desarrollado en Python que recomienda actividades según el clima. El sistema incluye una base de conocimiento, un motor de inferencia y una interfaz gráfica simple.
+Este es un Sistema Experto básico desarrollado en Python que recomienda comidas según el pais. El sistema incluye una base de conocimiento, un motor de inferencia y una interfaz gráfica simple.
 
 ## Requisitos
 
